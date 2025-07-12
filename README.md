@@ -1,6 +1,6 @@
 # README.md
 
-## Praxis Project: Improving Object Detection for a Robotic Arm
+## Object Erkennung: Improving Object Detection for a Robotic Arm
 
 ### Project Description
 
@@ -60,14 +60,12 @@ This project focuses on enhancing the object detection capabilities of a small r
 
 ### Repository Structure
 
-- `praxis_project.ipynb`: Jupyter notebook containing the project's code, including data preprocessing, model training, and evaluation.
-- `README.md`: This file, providing an overview of the project.
-- Dataset and model files (if included separately).
+- `object_erkennung.ipynb`: Jupyter notebook containing the project's code, including data preprocessing, model training, and evaluation.
 
 ### How to Use
 
 1. Clone the repository.
-2. Open the Jupyter notebook (`praxis_project.ipynb`) to explore the code and results.
+2. Open the Jupyter notebook (`object_erkennung.ipynb`) to explore the code and results.
 3. Follow the instructions in the notebook to replicate the training and evaluation process.
 
 ### Acknowledgments
