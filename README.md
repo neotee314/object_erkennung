@@ -1,5 +1,3 @@
-# README.md
-
 ## Object Erkennung: Improving Object Detection for a Robotic Arm
 
 ### Project Description
